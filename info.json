@@ -1,0 +1,7 @@
+{
+  "Id": "ArtOfRallyCATransmission",
+  "DisplayName": "Control for Automatic Transmission",
+  "Author": "Cyril Meyer",
+  "Version": "1.0",
+  "EntryMethod": "ArtOfRallyCATransmission.Main.Load"
+}
